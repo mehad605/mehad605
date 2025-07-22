@@ -19,7 +19,7 @@
   <a href="https://t.me/mehad605"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
----
+
 
 ## 👨🏻‍💻 Tech Arsenal
 
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -71,6 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehad605&layout=compact&theme=nord&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" width="400" />
 </p>
 
----
+
 
 
