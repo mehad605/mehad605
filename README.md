@@ -23,7 +23,7 @@
 
 ## 👨🏻‍💻 Tech Arsenal
 
-### 🌐 Languages & Core Technologies
+<h3 align="center"> 🌐 Languages & Core Technologies </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### 📚 Frameworks & Libraries
+<h3 align="center"> 📚 Frameworks & Libraries </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Chart.js-E34F26?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
-### 🗄️ Cloud & Databases
+<h3 align="center"> 🗄️ Cloud & Databases </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Platforms
+<h3 align="center"> ⚙️ Tools & Platforms </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
