@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Hello+World!+I%27m+Mehad+👋&repeat=false" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
   🎓 <strong>Computer Science & Engineering Graduate</strong> from <strong>RUET</strong><br>
   💡 Skilled in <strong>Flutter</strong>, <strong>Django</strong>, and <strong>JavaScript</strong>, crafting innovative solutions<br>
@@ -12,27 +10,18 @@
   🧩 <strong>Problem Solver</strong> turning ideas into code 
 </p>
 
-<h2 align="center"> Connect with Me</h2>
+<h2 align="center"> 📫 How to reach me</h2>
 
 <p align="center">
-  <a href="mailto:mehad605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mehad605">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/+8801856249207">
-    <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://t.me/mehad605">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="mailto:mehad605@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mehad605"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/+8801856249207"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/mehad605"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-
 
 ---
 
-## 🧰 Tech Arsenal
+## 👨🏻‍💻 Tech Arsenal
 
 ### 🌐 Languages & Core Technologies
 
