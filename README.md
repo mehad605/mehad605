@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Mehad+👋;&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Mehad+👋;&repeat=false" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
@@ -11,7 +12,7 @@
   🧩 <strong>Problem Solver</strong> turning ideas into code 
 </p>
 
-## 🔗 Connect with Me
+<h2 align="center"> Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:mehad605@gmail.com">
