@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Mehad+👋;&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Hello+World!+I%27m+Mehad+👋&repeat=false" alt="Typing SVG" />
 </p>
 
 
@@ -80,8 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mehad605&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Overview&rank_icon=github" width="400" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehad605&layout=compact&theme=nord&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" width="400" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehad605&theme=nord&bg_color=2E3440&color=88C0D0&line=D08770&point=EBCB8B&area=true&hide_border=true"/>
 </p>
 
 ---
