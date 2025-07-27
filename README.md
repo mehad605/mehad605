@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Hello+World!+I%27m+Mehad+👋&repeat=false" alt="Typing SVG" />
 </p>
 
